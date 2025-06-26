@@ -3,7 +3,7 @@
 ACTION=$1  # notify or stop
 
 # Configuration
-INSTANCE_ID="i-07d9fc2449d1956f3"
+INSTANCE_ID="i-096394093a59cb0d7"
 TOPIC_ARN="arn:aws:sns:ap-south-1:458799594567:ec2-alert-testing"
 REGION="ap-south-1"
 
