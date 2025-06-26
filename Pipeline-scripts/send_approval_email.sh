@@ -5,7 +5,7 @@ PIPELINE_NAME="your-pipeline-name"
 STAGE_NAME="ApprovalStage"
 ACTION_NAME="EmailApproval"
 REGION="ap-south-1"
-APPROVER_EMAIL="sumitspkpl052@gmail.com"
+APPROVER_EMAIL="sumitsphotosbackup48@gmail.com"
 EC2_PUBLIC_IP="your.ec2.public.ip"
 
 # Get approval token and execution ID
